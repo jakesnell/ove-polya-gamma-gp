@@ -1,4 +1,4 @@
-Code to accompany "Bayesian Few-Shot Classiﬁcation with One-vs-Each Pólya-Gamma Augmented Gaussian Processes" by Jake Snell and Richard Zemel (ICML 2020 UDL Workshop).
+Code to accompany "Bayesian Few-Shot Classiﬁcation with One-vs-Each Pólya-Gamma Augmented Gaussian Processes" by Jake Snell and Richard Zemel (ICLR 2021).
 
 # Dependencies
 
